@@ -38,3 +38,4 @@ Business Impact: Enhances decision-making, optimizes inventory and marketing, an
 
 6. Screenshots / Demos
 https://github.com/vinaymalagi121-star/Pizza-sales-dashboard/blob/c9c134627f5c81d59a1ad010fe8f46bd9268d652/Dashboard.jpg
+![Dashboard](https://github.com/user-attachments/assets/65105962-3f31-413e-875b-be599a7e50ab)
